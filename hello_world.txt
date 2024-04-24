@@ -1,2 +1,3 @@
 # Hi!
-this is my first repo file ever on GitHub
+this is my first repo file ever on GitHub.
+I am starting again after 8 months of failing to do anything else.
